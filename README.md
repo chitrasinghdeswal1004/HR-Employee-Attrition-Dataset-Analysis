@@ -22,5 +22,4 @@ Visualization methods, including Matplotlib, Plotly, and Plotly Express, were us
 <img width="1129" alt="HR Attrition SCR3" src="https://github.com/user-attachments/assets/5ecb2075-e0f5-41b4-a127-31e3dee0fc45" />
 <img width="934" alt="HR Attrition SCR4" src="https://github.com/user-attachments/assets/b2886b14-82db-4c1e-aab4-df9a1b449bfe" />
 <img width="1125" alt="HR Attrition SCR5" src="https://github.com/user-attachments/assets/ad7c9b83-6396-43c0-95fc-1a0e32393cb5" />
-🔗 Project Link
-HR Employee Attrition Dataset Analysis - GitHub
+🔗 Project Link - HR Employee Attrition Dataset Analysis - GitHub
